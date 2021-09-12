@@ -1,0 +1,873 @@
+@media (min-width:0px) and (max-width:320px){
+    .header-contact-part {
+        flex-direction: column;
+    }
+
+    .header-contact-contents {
+        margin-bottom: 10px;
+    }
+
+    .header-contact-icon i {
+        font-size: 30px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-contact-part {
+        padding-top: 20px;
+    }
+
+    .appointment-contents {
+        justify-content: flex-start;
+    }
+
+    .appointment-content-part {
+        width: 81%;
+        padding: 5px 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        margin-bottom: 10px;
+        margin-left: 10px;
+    }
+
+    .banner-contents {
+        text-align: center;
+    }
+
+    .banner-text-part {
+        width: 100%;
+    }
+
+    .banner-img-part img {
+        display: none !important;
+    }
+
+    .banner-learn-more-btn {
+        font-size: 12px;
+    }
+
+    .banner-book-now-btn {
+        margin-left: 10px;
+        font-size: 12px;
+    }
+
+    .banner-text-part p {
+        margin-top: 15px;
+    }
+
+    .banner-text-part h3 {
+      
+        margin-bottom: 15px;
+    }
+
+    .agency-image-part img {
+        position: initial;
+        bottom: inherit;
+        left: inherit;
+        width: 90%;
+    }
+
+    .agency-image-part {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .agency {
+        margin-top: 20px;
+    }
+
+    .agency-container {
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    .agency-text-part h1 {
+        font-size: 19px;
+        font-weight: 600;
+    }
+
+    .agency-text-part p {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .agency-discription-area-content p {
+        font-size: 14px;
+    }
+
+    .agency-discription-area-content-img {
+        margin-bottom: 10px;
+    }
+
+    .default-heading {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .meet-img-part-icons {
+        width: 45%;
+    }
+
+    .default-heading p {
+        font-size: 14px;
+    }
+
+    .price-table-part {
+        padding: 0px 10px;
+        margin-bottom: 20px;
+    }
+
+    .price {
+        padding: 40px 0;
+    }
+
+    .clint {
+        
+        padding: 40px 0;
+       
+    }
+
+    .client-logo-part {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .client-logo-row {
+        margin: 0;
+    }
+
+    .client-logo-img {
+        margin-bottom: 20px;
+    }
+
+    footer {
+        padding: 30px 0;
+    }
+
+    .footer-contact-map-content-text p {
+        font-size: 14px;
+        margin: 0 !important;
+    }
+
+    .footer-contact-map-content-icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .footer-contact-map-content-icon i {
+        line-height: 40px;
+    }
+
+    .footer-contact-phone-content-icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .footer-contact-phone-content-icon i {
+        line-height: 40px;
+       
+    }
+
+    .footer-contact-phone-content-text p {
+        font-size: 14px;
+        margin: 0 !important;
+    }
+
+    .footer-contact-email-content-icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .footer-contact-email-content-icon i {
+        line-height: 40px;
+    }
+
+    .footer-contact-email-content-text p {
+        font-size: 14px;
+        margin: 0 !important;
+    }
+
+    .footer-contact-part p {
+        
+        margin-bottom: 30px;
+        font-size: 14px;
+
+    }
+
+    .footer-client-part-content-text h6 {
+        font-size: 13px;
+    }
+
+    .footer-client-part-content-text p {
+        font-size: 13px;
+    }
+
+    .service {
+        margin: 40px 0;
+    }
+
+    .meet {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+
+}
+
+@media (min-width:321px) and (max-width:425px){
+    .header-contact-part {
+        flex-direction: column;
+    }
+
+    .header-contact-contents {
+        margin-bottom: 10px;
+    }
+
+    .header-contact-icon i {
+        font-size: 30px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-contact-part {
+        padding-top: 20px;
+    }
+
+    .appointment-contents {
+        justify-content: flex-start;
+    }
+
+    .appointment-content-part {
+        width: 61%;
+        padding: 5px 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        margin-bottom: 10px;
+        margin-left: 10px;
+    }
+
+    .banner-contents {
+        text-align: center;
+    }
+
+    .banner-text-part {
+        width: 100%;
+    }
+
+    .banner-img-part img {
+        display: none !important;
+    }
+
+    .banner-learn-more-btn {
+        font-size: 12px;
+    }
+
+    .banner-book-now-btn {
+        margin-left: 10px;
+        font-size: 12px;
+    }
+
+    .banner-text-part p {
+        margin-top: 15px;
+    }
+
+    .banner-text-part h3 {
+      
+        margin-bottom: 15px;
+    }
+
+    .agency-image-part img {
+        position: initial;
+        bottom: inherit;
+        left: inherit;
+        width: 90%;
+    }
+
+    .agency-image-part {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .agency {
+        margin-top: 20px;
+    }
+
+    .agency-container {
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    .agency-text-part h1 {
+        font-size: 19px;
+        font-weight: 600;
+    }
+
+    .agency-text-part p {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .agency-discription-area-content p {
+        font-size: 14px;
+    }
+
+    .agency-discription-area-content-img {
+        margin-bottom: 10px;
+    }
+
+    .default-heading {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .meet-img-part-icons {
+        width: 45%;
+    }
+
+    .default-heading p {
+        font-size: 14px;
+    }
+
+    .price-table-part {
+        padding: 0px 10px;
+        margin-bottom: 20px;
+    }
+
+    .price {
+        padding: 40px 0;
+    }
+
+    .clint {
+        
+        padding: 40px 0;
+       
+    }
+
+    .client-logo-part {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .client-logo-row {
+        margin: 0;
+    }
+
+    .client-logo-img {
+        margin-bottom: 20px;
+    }
+
+    footer {
+        padding: 30px 0;
+    }
+
+    .footer-contact-map-content-text p {
+        font-size: 14px;
+        margin: 0 !important;
+    }
+
+    .footer-contact-map-content-icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .footer-contact-map-content-icon i {
+        line-height: 40px;
+    }
+
+    .footer-contact-phone-content-icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .footer-contact-phone-content-icon i {
+        line-height: 40px;
+       
+    }
+
+    .footer-contact-phone-content-text p {
+        font-size: 14px;
+        margin: 0 !important;
+    }
+
+    .footer-contact-email-content-icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .footer-contact-email-content-icon i {
+        line-height: 40px;
+    }
+
+    .footer-contact-email-content-text p {
+        font-size: 14px;
+        margin: 0 !important;
+    }
+
+    .footer-contact-part p {
+        
+        margin-bottom: 30px;
+        font-size: 14px;
+
+    }
+
+    .footer-client-part-content-text h6 {
+        font-size: 13px;
+    }
+
+    .footer-client-part-content-text p {
+        font-size: 13px;
+    }
+
+    .service {
+        margin: 40px 0;
+    }
+
+    .meet {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+
+@media (min-width:426px) and (max-width:768px){
+    .header-contact-part {
+        flex-direction: column;
+    }
+
+    .header-contact-contents {
+        margin-bottom: 10px;
+    }
+
+    .header-contact-icon i {
+        font-size: 30px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-contact-part {
+        padding-top: 20px;
+    }
+
+    .appointment-contents {
+        justify-content: flex-start;
+    }
+
+    .appointment-content-part {
+        width: 35%;
+        padding: 5px 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        margin-bottom: 10px;
+        margin-left: 10px;
+    }
+
+    .banner-contents {
+        text-align: center;
+    }
+
+    .banner-text-part {
+        width: 75%;
+        margin: auto;
+    }
+
+    .banner-img-part img {
+        display: none !important;
+    }
+
+    .banner-learn-more-btn {
+        font-size: 15px;
+    }
+
+    .banner-book-now-btn {
+        margin-left: 10px;
+        font-size: 15px;
+    }
+
+    .banner-text-part p {
+        margin-top: 15px;
+        font-size: 18px;
+    }
+
+    .banner-text-part h3 {
+      
+        margin-bottom: 15px;
+    }
+
+    .agency-image-part img {
+        position: initial;
+        bottom: inherit;
+        left: inherit;
+        width: 60%;
+    }
+
+    .agency-image-part {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .agency {
+        margin-top: 20px;
+    }
+
+    .agency-container {
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    .agency-text-part h1 {
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+    .agency-text-part p {
+        margin-top: 10px;
+        font-size: 16px;
+    }
+
+    .agency-discription-area-content p {
+        font-size: 14px;
+    }
+
+    .agency-discription-area-content-img {
+        margin-bottom: 10px;
+    }
+
+    .default-heading {
+        width: 75%;
+        margin-bottom: 20px;
+    }
+
+    .meet-img-part-icons {
+        width: 45%;
+    }
+
+    .default-heading p {
+        font-size: 14px;
+    }
+
+    .price-table-part {
+        padding: 0px 10px;
+        margin-bottom: 20px;
+    }
+
+    .price {
+        padding: 40px 0;
+    }
+
+    .clint {
+        
+        padding: 40px 0;
+       
+    }
+
+    .client-logo-part {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .client-logo-row {
+        margin: 0;
+    }
+
+    .client-logo-img {
+        margin-bottom: 20px;
+    }
+
+    footer {
+        padding: 30px 0;
+    }
+
+    .footer-contact-map-content-text p {
+        font-size: 14px;
+        margin: 0 !important;
+    }
+
+    .footer-contact-map-content-icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .footer-contact-map-content-icon i {
+        line-height: 40px;
+    }
+
+    .footer-contact-phone-content-icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .footer-contact-phone-content-icon i {
+        line-height: 40px;
+       
+    }
+
+    .footer-contact-phone-content-text p {
+        font-size: 14px;
+        margin: 0 !important;
+    }
+
+    .footer-contact-email-content-icon {
+        height: 40px;
+        width: 40px;
+    }
+
+    .footer-contact-email-content-icon i {
+        line-height: 40px;
+    }
+
+    .footer-contact-email-content-text p {
+        font-size: 14px;
+        margin: 0 !important;
+    }
+
+    .footer-contact-part p {
+        
+        margin-bottom: 30px;
+        font-size: 14px;
+
+    }
+
+    .footer-client-part-content-text h6 {
+        font-size: 14px;
+    }
+
+    .footer-client-part-content-text p {
+        font-size: 14px;
+    }
+
+    .service {
+        margin: 40px 0;
+    }
+
+    .meet {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .price-table-contents h1 {
+        font-size: 28px;
+    }
+
+    .footer-follow-part {
+        width: 50%;
+    }
+
+    .footer-follow-part-icon-contants {
+        width: 70%;
+    }
+}
+
+@media (min-width:769px) and (max-width:1024px){
+    .header-contact-part {
+        
+    }
+
+    .header-contact-contents {
+        
+    }
+
+    .header-contact-icon i {
+       
+    }
+
+    .header-contact-part {
+       
+    }
+
+    .appointment-contents {
+       
+    }
+
+    .appointment-content-part {
+        
+        width: 85%;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+      
+    }
+
+    .banner-contents {
+        
+    }
+
+    .banner-text-part {
+    }
+
+    .banner-img-part img {
+        
+    }
+
+    .banner-learn-more-btn {
+        
+    }
+
+    .banner-book-now-btn {
+       
+    }
+
+    .banner-text-part p {
+       
+    }
+
+    .banner-text-part h3 {
+      
+       
+    }
+
+    .agency-image-part img {
+        
+        width: 47%;
+    }
+
+    .agency-image-part {
+      
+    }
+
+    .agency {
+        
+        padding-bottom: 0px;
+    }
+
+    .agency-container {
+       
+    }
+
+    .agency-text-part h1 {
+       
+    }
+
+    .agency-text-part p {
+       
+    }
+
+    .agency-discription-area-content p {
+        font-size: 12px;
+    }
+
+    .agency-discription-area-content-img {
+        
+    }
+
+    .default-heading {
+        
+    }
+
+    .meet-img-part-icons {
+        
+    }
+
+    .default-heading p {
+        
+    }
+
+    .price-table-part {
+        
+    }
+
+    .price {
+       
+    }
+
+    .clint {
+        
+        
+       
+    }
+
+    .client-logo-part {
+        
+    }
+
+    .client-logo-row {
+       
+    }
+
+    .client-logo-img {
+       
+    }
+
+    footer {
+        
+    }
+
+    .footer-contact-map-content-text p {
+       
+    }
+
+    .footer-contact-map-content-icon {
+       
+    }
+
+    .footer-contact-map-content-icon i {
+        
+    }
+
+    .footer-contact-phone-content-icon {
+        
+    }
+
+    .footer-contact-phone-content-icon i {
+        
+       
+    }
+
+    .footer-contact-phone-content-text p {
+        
+    }
+
+    .footer-contact-email-content-icon {
+        
+    }
+
+    .footer-contact-email-content-icon i {
+        
+    }
+
+    .footer-contact-email-content-text p {
+        
+    }
+
+    .footer-contact-part p {
+        
+        font-size: 13px;
+    }
+
+    .footer-client-part-content-text h6 {
+        
+        font-size: 13px;
+    }
+
+    .footer-client-part-content-text p {
+        
+        font-size: 14px;
+    }
+
+    .service {
+        
+    }
+
+    .meet {
+       
+    }
+
+    .price-table-contents h1 {
+        
+    }
+
+    .footer-follow-part-text h5 {
+        font-size: 17px;
+    }
+
+    .footer-follow-part-icon-contants {
+       
+        width: 74%;
+        
+    }
+
+}
